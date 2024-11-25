@@ -4,8 +4,7 @@ Este repositório contém uma aplicação de urna eletrônica desenvolvida em Ja
 
 ## Funcionalidades
 
-- **Cadastro de Partidos:**
-  - Inserir, listar, editar e excluir partidos políticos.
+- **Cadastro de Partidos**
 
 - **Cadastro de Candidatos:**
   - Vincular candidatos a partidos e definir informações como nome, número e cargo.
