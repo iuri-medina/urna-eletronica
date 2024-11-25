@@ -31,6 +31,16 @@ A aplicação utiliza um banco de dados PostgreSQL para armazenar informações 
 - **PostgreSQL:** Sistema de gerenciamento de banco de dados relacional.
 - **JDBC:** Para integração entre a aplicação Java e o banco de dados PostgreSQL.
 
+## Imagens do projeto
+
+![urna1](https://github.com/user-attachments/assets/720f4104-0350-4b09-9df8-a4be44f2cda7)
+
+![urna_confirmavoto](https://github.com/user-attachments/assets/481e43cf-cb29-476d-8a7c-bd99dffe421f)
+
+![urna_visualizarvoto](https://github.com/user-attachments/assets/e461f3e6-49b3-4c45-bd4f-082aea4b5f43)
+
+
+
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar o projeto.
 
